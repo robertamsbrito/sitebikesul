@@ -1,11 +1,14 @@
 body {
     background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
 }
 
 .container {
     background-color: #2E3094;
     font-family: Arial, sans-serif;
     font-size: 16px;
+
     padding: 10px;
 }
 
