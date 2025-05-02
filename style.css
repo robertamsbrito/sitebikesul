@@ -3,8 +3,17 @@ body {
 }
 
 .container {
-    background-color: rgba(0, 0, 255, 0.819);
+    background-color: #2E3094;
     font-family: Arial, sans-serif;
     font-size: 16px;
     padding: 10px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: yellow;
 }
